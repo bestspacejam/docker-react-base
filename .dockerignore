@@ -1,0 +1,7 @@
+.git
+.gitignore
+node_modules
+tests
+Dockerfile
+/webpack*.config.js
+#/package*.json
